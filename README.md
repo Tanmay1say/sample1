@@ -1,9 +1,10 @@
 # PART0
+
 ## Exercise 0.4 , 0.5 , 0.6
 
 
 
-# Exercise 0.4
+### Exercise 0.4
 
 ```mermaid
 sequenceDiagram
@@ -39,7 +40,7 @@ sequenceDiagram
 
 
 
-# Exercise 0.5
+### Exercise 0.5
 
 ```mermaid
 sequenceDiagram
@@ -73,7 +74,7 @@ Note right of CLIENT : Browser executes the event handler that render the notes 
 
 
 
-# Exercise 0.6
+### Exercise 0.6
 
 ```mermaid
 sequenceDiagram
