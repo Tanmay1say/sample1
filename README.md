@@ -21,7 +21,7 @@ deactivate SERVER
 Note right of CLIENT : Now the js file start executing and it request for data.json
 CLIENT ->> SERVER : HTTP GET https://studies.cs.helsinki.fi/exampleapp/data.json
 activate SERVER
-SERVER -->> CLIENT : [{ "content": "HTML is easy", "date": "2024-3-8" }, ... ]
+SERVER -->> CLIENT : [{ "content": "HTML is easy", "date": "2024-03-08T06:27:01.933Z"}, ... ]
 deactivate SERVER
 Note right of CLIENT : Browser executes the event handler that render the notes to display
 ```
